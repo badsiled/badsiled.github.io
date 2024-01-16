@@ -8,7 +8,7 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
-.logo-texto {
+.logodabe {
   height: 40px;
   display: block;
 }
@@ -114,9 +114,11 @@ footer {
   justify-content: center;
   align-items: center;
   align-content: center;
+  padding-top: 30px;
+  background-color: aliceblue;
 }
 
-.logo-black {
+.logodabe {
   height: 40px;
 }
 
